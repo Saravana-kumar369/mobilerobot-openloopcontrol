@@ -85,7 +85,6 @@ if _name_ == '_main_':
 
 ![image](https://github.com/DEEPAK2200233/mobilerobot-openloopcontrol/assets/118707676/27ae49ae-ede1-4357-b58f-475d8359fe9f)
 
-
 ## MobileRobot Movement Video:
 
 https://www.youtube.com/watch?v=L9JPWnLLoL0
